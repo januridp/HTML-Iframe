@@ -1,0 +1,33 @@
+ body {
+		font-family:arial,helvetica,sans-serif;
+		font-size:12px;
+		
+	}
+  #box {
+		width:200px;
+		height:200px;
+		border:1px solid #bbb;
+		margin-top:10px;
+		
+	}
+	#box1 {
+		width:200px;
+		height:200px;
+		border:1px solid #bbb;
+		margin-top:10px;
+		float:right;
+		
+	}
+  #headline {
+		border:1px solid #bbb;
+		height:150px;
+		padding:10px;
+	}
+	#headline1{
+	float:right;
+	width:100px;
+	margin 0 0 15px 20px;
+	padding:15px;
+	border:1px solid black;
+	text-align:center;
+	}
